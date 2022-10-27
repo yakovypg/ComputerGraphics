@@ -1,2 +1,6 @@
 # ComputerGraphics
-Homework
+Computer graphics homework
+
+## Python packages
+- OpenCV
+- NumPy
